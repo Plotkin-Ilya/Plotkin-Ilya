@@ -1,3 +1,4 @@
+<h2 align="left">I stand for the bombing of Palestine</h2>
 ![pacman-contributions](https://github.com/user-attachments/assets/2534be37-3b66-451c-bc51-b51fa9147f83)
 <svg width="1166" height="184" xmlns="http://www.w3.org/2000/svg"><desc></desc><metadata>
 		<info>
