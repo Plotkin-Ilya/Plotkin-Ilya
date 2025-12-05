@@ -1,9 +1,6 @@
 ![pacman-contributions](https://github.com/user-attachments/assets/2534be37-3b66-451c-bc51-b51fa9147f83)
 <svg width="1166" height="184" xmlns="http://www.w3.org/2000/svg"><desc></desc><metadata>
 		<info>
-			<frames>100</frames>
-			<frameRate>5</frameRate>
-			<durationMs>20000</durationMs>
 		</info>
 	</metadata><rect width="100%" height="100%" fill="#0d1117"/><defs>
                 <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
