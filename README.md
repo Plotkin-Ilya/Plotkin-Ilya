@@ -4,7 +4,6 @@
 			<frames>100</frames>
 			<frameRate>5</frameRate>
 			<durationMs>20000</durationMs>
-			<generatedOn>2025-12-05T16:12:39.630Z</generatedOn>
 		</info>
 	</metadata><rect width="100%" height="100%" fill="#0d1117"/><defs>
                 <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
