@@ -9,5 +9,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31izu7zlzvjvjrcgdhfom5xarhmq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31izu7zlzvjvjrcgdhfom5xarhmq&redirect=true)
 ![My Skills](https://skillicons.dev/icons?i=blender,cs,dotnet,unity,visualstudio,vscode,androidstudio,java,kotlin,windows)
 
-<h2 align="left">I stand for the destroying of Palestine 🥴🐷</h2>
+<h2 align="left">Ī SƬᗩᑎD F🖤Ŕ ƬĤƐ DƐSƬŔ🖤YĪᑎƓ 🖤F ṖᗩĿƐSƬĪᑎƐ 🥴🐷</h2>
 
